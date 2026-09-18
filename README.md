@@ -11,12 +11,12 @@ This project features a complete drone assembly consisting of central mounting p
 ## Info on Materials & Components
 The repository contains the following FreeCAD (`.FCStd`) component and assembly files:
 * `Drone-Assembly.FCStd` - Top-level master assembly integrating all components.
-* `1.Base.FCStd` - base chassis plate providing structural support for supposed internal electronics.
+* `1.Base.FCStd` - Base chassis plate providing structural support for supposed internal electronics.
 * `2. Hang.FCStd` - Motor arm extension with mounting points.
 * `3. Motor.FCStd` - Brushless electric motor.
 * `4. Nut.FCStd` -  Threaded standoff pin used for multi-layer frame assembly.
 * `5. Propeller.FCStd` - Dual-blade aerodynamic propeller with central hub mounting hole.
-* `6. Cover.FCStd` -  motor nut cover for propellers.
+* `6. Cover.FCStd` -  Motor nut cover for propellers.
 
 ## Engineering Highlights
 
