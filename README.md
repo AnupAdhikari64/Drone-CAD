@@ -3,7 +3,7 @@
 A 3D CAD model of a multi-cylinder internal combustion engine rotating assembly, designed and modeled using FreeCAD.
 
 ## Overview
-This project features a complete drone assembly, including the base plate, structural arms, motors, propellers, and a protective cover. It demonstrates proficiency in part modeling, assembly constraints, and UAV structural design tailored for mechanical engineering.
+This project features a complete drone assembly consisting of central mounting plates, four cantilevered motor arms, outrunner motors, propellers, structural fasteners, and protective hub covers. It demonstrates proficiency in part modeling, parametric feature creation, and assembly constraints tailored for mechanical engineering and UAV airframe design.
 
 ## Demonstration
 ![Project Demo](drone.png)
