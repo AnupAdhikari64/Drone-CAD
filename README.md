@@ -1,6 +1,6 @@
 # Quadcopter Drone Frame Assembly
 
-A 3D CAD model of a multi-cylinder internal combustion engine rotating assembly, designed and modeled using FreeCAD.
+A 3D CAD model of a multi-rotor drone airframe and propulsion assembly, designed and modeled using FreeCAD.
 
 ## Overview
 This project features a complete drone assembly consisting of central mounting plates, four cantilevered motor arms, outrunner motors, propellers, structural fasteners, and protective hub covers. It demonstrates proficiency in part modeling, parametric feature creation, and assembly constraints tailored for mechanical engineering and UAV airframe design.
